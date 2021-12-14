@@ -5,9 +5,7 @@
   <a href="#projeto">Projeto</a> ・
   <a href="#funcionalidades-extras">Funcionalidades</a>
 </p>
-<p align="center">
-  <img alt="Preview" src="https://repository-images.githubusercontent.com/418775020/5f87d109-6128-43b7-bdbd-056624dbdbc4" width="100%">
-</p>
+
 
 ## Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -23,9 +21,7 @@ Bibliotecas
 <br>
 
 ## Projeto
-Este crachá digital foi criado durante o evento NLW/Heat disponibilizado pela @rocketseat-education. Fui guiado durante 5 aulas pelos professores [@maykbrito](https://www.github.com/maykbrito) e [@jakeliny](https://github.com/jakeliny). Ao final, tive a oportunidade de inserir funcionalidades extras ao projeto.
+Este crachá digital foi criado durante o evento NLW/Heat disponibilizado pela @rocketseat-education. Fui guiado durante 5 aulas pelos professores [@maykbrito](https://www.github.com/maykbrito) e [@jakeliny](https://github.com/jakeliny). 
 
 <br>
 
-## Funcionalidades extras
-Fui além e, adicionalmente, criei um modal para a inserção dos dados de quem for receber o crachá. Também estilizei com efeito acrílico.
